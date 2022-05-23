@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/495412971.svg)](https://zenodo.org/badge/latestdoi/495412971)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6573582.svg)](https://doi.org/10.5281/zenodo.6573582)
 
 # James_etal_ICES_JMS
 
