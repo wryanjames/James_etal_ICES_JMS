@@ -1,4 +1,6 @@
 # James_etal_ICES_JMS
+[![DOI](https://zenodo.org/badge/495412971.svg)](https://zenodo.org/badge/latestdoi/495412971)
+
 Data for James WR, Santos RO, Rodemann JR, Rezek RJ, Fratto ZW, Furman BT, Hall MO, Kelble CR, Rehage JS, & JA Nelson (accepted) Widespread seagrass die-off has no legacy effect on basal resource use of seagrass food webs in Florida Bay, USA. ICES Journal of Marine Science
 
 James_etal_ICES_JMS_consumerIso.csv - this file contains the consumer isotope data
